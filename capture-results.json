@@ -1,0 +1,318 @@
+{
+  "base": "c90453bd49f5d3f28f342aa8cc55a98e1029de96",
+  "sourceSha256": "dfba67a7c322b3cdb3c5481d6aa6fc64798df645afdeb0f412a4dbfc894984e5",
+  "results": [
+    {
+      "version": "before",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "before-light-1440.png",
+      "closeBounds": {
+        "x": 975,
+        "y": 84.5,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 432,
+        "y": 67.5,
+        "width": 576,
+        "height": 765
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "before",
+      "theme": "light",
+      "viewport": {
+        "width": 1366,
+        "height": 650
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "before-light-1366.png",
+      "closeBounds": {
+        "x": 938,
+        "y": 65.75,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 395,
+        "y": 48.75,
+        "width": 576,
+        "height": 552.5
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "before",
+      "theme": "light",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mobileEmulation": true,
+      "browser": "156.0.8078.4",
+      "imageName": "before-light-390.png",
+      "closeBounds": {
+        "x": 341,
+        "y": 80.3046875,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 16,
+        "y": 63.3046875,
+        "width": 358,
+        "height": 717.390625
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "before",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "before-dark-1440.png",
+      "closeBounds": {
+        "x": 975,
+        "y": 84.5,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 432,
+        "y": 67.5,
+        "width": 576,
+        "height": 765
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "before",
+      "theme": "dark",
+      "viewport": {
+        "width": 1366,
+        "height": 650
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "before-dark-1366.png",
+      "closeBounds": {
+        "x": 938,
+        "y": 65.75,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 395,
+        "y": 48.75,
+        "width": 576,
+        "height": 552.5
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "before",
+      "theme": "dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mobileEmulation": true,
+      "browser": "156.0.8078.4",
+      "imageName": "before-dark-390.png",
+      "closeBounds": {
+        "x": 341,
+        "y": 80.3046875,
+        "width": 16,
+        "height": 16
+      },
+      "panelBounds": {
+        "x": 16,
+        "y": 63.3046875,
+        "width": 358,
+        "height": 717.390625
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "light",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "after-light-1440.png",
+      "closeBounds": {
+        "x": 968,
+        "y": 39.5,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 432,
+        "y": 91.5,
+        "width": 576,
+        "height": 765
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "light",
+      "viewport": {
+        "width": 1366,
+        "height": 650
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "after-light-1366.png",
+      "closeBounds": {
+        "x": 931,
+        "y": 20.75,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 395,
+        "y": 72.75,
+        "width": 576,
+        "height": 552.5
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "light",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mobileEmulation": true,
+      "browser": "156.0.8078.4",
+      "imageName": "after-light-390.png",
+      "closeBounds": {
+        "x": 334,
+        "y": 35.3046875,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 16,
+        "y": 87.3046875,
+        "width": 358,
+        "height": 717.390625
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "dark",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "after-dark-1440.png",
+      "closeBounds": {
+        "x": 968,
+        "y": 39.5,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 432,
+        "y": 91.5,
+        "width": 576,
+        "height": 765
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "dark",
+      "viewport": {
+        "width": 1366,
+        "height": 650
+      },
+      "mobileEmulation": false,
+      "browser": "156.0.8078.4",
+      "imageName": "after-dark-1366.png",
+      "closeBounds": {
+        "x": 931,
+        "y": 20.75,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 395,
+        "y": 72.75,
+        "width": 576,
+        "height": 552.5
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    },
+    {
+      "version": "after",
+      "theme": "dark",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "mobileEmulation": true,
+      "browser": "156.0.8078.4",
+      "imageName": "after-dark-390.png",
+      "closeBounds": {
+        "x": 334,
+        "y": 35.3046875,
+        "width": 40,
+        "height": 40
+      },
+      "panelBounds": {
+        "x": 16,
+        "y": 87.3046875,
+        "width": 358,
+        "height": 717.390625
+      },
+      "loadCLS": 0,
+      "actionCLS": 0,
+      "errors": []
+    }
+  ]
+}
